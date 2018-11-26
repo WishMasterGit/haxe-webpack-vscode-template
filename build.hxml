@@ -1,0 +1,6 @@
+-cp src
+-D analyzer-optimize
+-debug
+-main Main 
+-lib haxe-loader
+-js out.js
