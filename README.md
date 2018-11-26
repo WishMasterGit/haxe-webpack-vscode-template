@@ -1,9 +1,5 @@
-# Haxe project
+# Simple haxe vscode webpack project
 
-This is an example Haxe project scaffolded by Visual Studio Code.
+This project template build in order to be executed in vscode.
 
-Without further changes the structure is following:
-
- * `src/Main.hx`: Entry point Haxe source file
- * `build.hxml`: Haxe command line file used to build the project
- * `README.md`: This file
+You can debug by using chrome-debug vscode extension, just press F5
