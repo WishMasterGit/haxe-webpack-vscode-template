@@ -1,4 +1,4 @@
-# Simple haxe vscode webpack project
+# Simple haxe vscode webpackproject
 
 This project template build in order to be executed in vscode.
 
